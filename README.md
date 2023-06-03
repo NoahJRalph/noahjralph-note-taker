@@ -14,6 +14,7 @@
 ## Description
 
 My very own sadistic note taker. Made using the criteria from Module 11 of my edX Web Development bootcamp. I made it as compact as possible within my tight time limit I had.
+The application allows users to take notes, save notes, review them in the left hand column, and delete old notes.
 
 ## Installation
 
